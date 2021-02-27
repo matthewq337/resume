@@ -18,9 +18,7 @@ Took Introduction to Python: Absolute Beginner and  Introduction to Python: Fund
 
 ![#](photos/Absolute Beginner.jpg)
 
-![#](https://res.cloudinary.com/uisual/image/upload/assets/logos/facebook.svg) ![#](https://res.cloudinary.com/uisual/image/upload/assets/logos/pinterest.svg) ![#](https://res.cloudinary.com/uisual/image/upload/assets/logos/stripe.svg) ![#](https://res.cloudinary.com/uisual/image/upload/assets/logos/dribbble.svg) ![#](https://res.cloudinary.com/uisual/image/upload/assets/logos/behance.svg)
-
-![#](https://res.cloudinary.com/uisual/image/upload/assets/devices/ipad.png) 
+![#](photos/Fundamentals.jpg)
 
 Nice Features
 -------------
