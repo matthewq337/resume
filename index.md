@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consec adipiscing elit, sed do eiusmod tempor incidi
 *   Lifetime updates.
 *   24/7 technical support.
 
-![#](![#](photos/Fundamentals.jpg)
+![#](photos/Fundamentals.jpg)
 
 ![#](https://res.cloudinary.com/uisual/image/upload/assets/devices/ipad.png) 
 
