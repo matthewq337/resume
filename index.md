@@ -11,7 +11,8 @@ Took a linux(fedora) and ms access class from front range in 2017
 Worked at computer renaissance in 2018
 
 Worked at thompson school district in in 2019
-took Introduction to Python: Absolute Beginner and  Introduction to Python: Fundamentals
+
+Took Introduction to Python: Absolute Beginner and  Introduction to Python: Fundamentals in 2020
 
 
 
