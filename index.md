@@ -4,7 +4,10 @@
 
 Design better.
 
-Lorem ipsum dolor sit amet, consectetur lit, enimad eiusmod tempor incididunt ut labore et dolore magna aliqua ullamco laboris nisi.
+Graduated Thompson Valley High School in 2016
+
+
+Took a linux(fedora) and ms acces class from front range in 2017
 
 [Add to Chrome — It’s Free](#)
 
