@@ -1,11 +1,4 @@
-<link type="text/css" rel="stylesheet" href="stylesheets/main.css" />
 
-<div class="outer">
-  <div class="inner">
-  here
-    <img src="https://www.google.com/logos/doodles/2017/abdul-sattar-edhis-89th-birthday-5757526734798848-hp.jpg" alt="">
-  </div>
-</div>
                        
                        
                        Matt Quintanilla's resume
@@ -24,9 +17,16 @@ Worked at thompson school district in in 2019
 
 Took Introduction to Python: Absolute Beginner and  Introduction to Python: Fundamentals in 2020
 
-![#](photos/Absolute Beginner.jpg)
+![#]()
 
+<link type="text/css" rel="stylesheet" href="stylesheets/main.css" />
 
+<div class="outer">
+  <div class="inner">
+  here
+    <img src="photos/Absolute Beginner.jpg" alt="">
+  </div>
+</div>
 
 
 ![#](photos/Fundamentals.jpg)
