@@ -1,0 +1,19 @@
+.outer {
+  height: 300px;
+  width: 300px;
+  border: 1px solid #000;
+}
+.inner {
+  height: 100px;
+  width: 100px;
+  margin: 100px;
+  background: white;
+}
+img {
+  height: auto;
+  width: 100px;
+  display: none
+}
+.inner:hover img {
+  display: block;
+}
