@@ -1,17 +1,17 @@
 .outer {
-  height: 900px;
-  width: 900px;
-  border: 1px solid #000;
+  height: 300px;
+  width: 300px;
+  border: 0px solid #000;
 }
 .inner {
-  height: 900px;
-  width: 900px;
-  margin: 900px;
+  height: 100px;
+  width: 100px;
+  margin: 100px;
   background: white;
 }
 img {
-  height: 900px;
-  width: 900px;
+  height: auto;
+  width: 400px;
   display: none
 }
 .inner:hover img {
