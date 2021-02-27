@@ -10,8 +10,8 @@
   background: white;
 }
 img {
-  height: auto;
-  width: 100px;
+  height: 900;
+  width: 900px;
   display: none
 }
 .inner:hover img {
