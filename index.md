@@ -1,13 +1,11 @@
-                       Matt quintanilla's resume
-
-[](#)[Add to Chrome](#)
-
-Design better.
+                       Matt Quintanilla's resume
+My History.
 ==============
 
-Lorem ipsum dolor sit amet, consectetur lit, enimad eiusmod tempor incididunt ut labore et dolore magna aliqua ullamco laboris nisi.
+Graduated Thompson Valley High School in 2016
 
-[Add to Chrome — It’s Free](#)
+
+Took a linux(fedora) and ms acces class from frount range in 2017
 
 Firefox and Safari soon.
 
