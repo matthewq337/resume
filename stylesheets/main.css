@@ -1,7 +1,6 @@
 .outer {
   height: 300px;
   width: 300px;
-  border: 0px solid #000;
 }
 .inner {
   height: 100px;
