@@ -14,12 +14,12 @@ Worked at thompson school district in in 2019
 
 Took Introduction to Python: Absolute Beginner and  Introduction to Python: Fundamentals in 2020
 
-
-
 ![#](photos/Absolute Beginner.jpg)
 
-![#](photos/Fundamentals.jpg)
 
+
+
+![#](photos/Fundamentals.jpg)
 Nice Features
 -------------
 
