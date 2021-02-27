@@ -6,12 +6,14 @@ Design better.
 
 Graduated Thompson Valley High School in 2016
 
-
 Took a linux(fedora) and ms acces class from front range in 2017
 
-[Add to Chrome — It’s Free](#)
+Worked at computer renaissance in 2018
 
-Firefox and Safari soon.
+Worked at thompson school district in in 2019
+
+
+
 
 ![#](https://res.cloudinary.com/uisual/image/upload/assets/devices/ipad.png)
 
