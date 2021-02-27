@@ -15,7 +15,7 @@ took Introduction to Python: Absolute Beginner and  Introduction to Python: Fund
 
 
 
-![#](https://res.cloudinary.com/uisual/image/upload/assets/devices/ipad.png)
+![#](photos/Absolute Beginner.jpg)
 
 ![#](https://res.cloudinary.com/uisual/image/upload/assets/logos/facebook.svg) ![#](https://res.cloudinary.com/uisual/image/upload/assets/logos/pinterest.svg) ![#](https://res.cloudinary.com/uisual/image/upload/assets/logos/stripe.svg) ![#](https://res.cloudinary.com/uisual/image/upload/assets/logos/dribbble.svg) ![#](https://res.cloudinary.com/uisual/image/upload/assets/logos/behance.svg)
 
