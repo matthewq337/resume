@@ -1,4 +1,4 @@
-                       Matt quintanilla's resume
+                       Matt Quintanilla's resume
 
 [](#)[Add to Chrome](#)
 
