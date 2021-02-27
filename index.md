@@ -5,7 +5,7 @@ My History.
 Graduated Thompson Valley High School in 2016
 
 
-Took a linux(fedora) and ms acces class from frount range in 2017
+Took a linux(fedora) and ms acces class from front range in 2017
 
 Firefox and Safari soon.
 
