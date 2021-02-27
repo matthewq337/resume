@@ -1,11 +1,12 @@
-                       Matt Quintanilla's resume
-My History.
-==============
+                       Matt quintanilla's resume
 
-Graduated Thompson Valley High School in 2016
+[](#)[Add to Chrome](#)
 
+Design better.
 
-Took a linux(fedora) and ms acces class from front range in 2017
+Lorem ipsum dolor sit amet, consectetur lit, enimad eiusmod tempor incididunt ut labore et dolore magna aliqua ullamco laboris nisi.
+
+[Add to Chrome — It’s Free](#)
 
 Firefox and Safari soon.
 
