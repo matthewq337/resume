@@ -1,128 +1,218 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-                       
-                       
-                       Matt Quintanilla's resume
-
-[](#)[Add to Chrome](#)
-
-Design better.
-
-Graduated Thompson Valley High School in 2016
-
-Took a linux(fedora) and ms access class from front range in 2017
-
-Worked at computer renaissance in 2018
-
-Worked at thompson school district in in 2019
-
-Took Introduction to Python: Absolute Beginner and  Introduction to Python: Fundamentals in 2020
-
-![#]()
-
-<link type="text/css" rel="stylesheet" href="stylesheets/main.css" />
-
-<div class="outer">
-  <div class="inner">
-  here
-    <img src="photos/Absolute Beginner.jpg" alt="">
-  </div>
-</div>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
 
 
-![#](photos/Fundamentals.jpg)
-Nice Features
--------------
 
-Lorem ipsum dolor sit amet, consec adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim ad minim veniam, quis nostrud exercitation ullamco nisi equi.
+    <title>Matt Quintanilla</title>
+  </head>
+  <body data-spy="scroll" data-target="#navbar-menu" data-offset="50">
 
-*   Unlimited domain names.
-*   150+ components.
-*   Lifetime updates.
-*   24/7 technical support.
+      <nav  id="navbar-menu" class="navbar fixed-top navbar-expand-lg navbar-dark">
+          <a class="navbar-brand" href="#">Matt Quintanilla</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
+            <ul class="ml-md-auto nav nav-pills navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="#one">Home</a>
+                  </li>
+                  <!-- <li class="nav-item">
+                      <a class="nav-link" href="#two">Projects</a>
+                    </li> -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="#three">Resume</a>
+                      </li>
+                    <li class="nav-item">
+                          <a class="nav-link" href="#four">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                </li>
+              
+              
+            </div>
+          </div>
+        </nav>
+        <div id="one" class="banner-area">
+          <div class="intro-text container">
 
-Nice Features
--------------
+              <h1 class="banner-area-headline">Hi, <br>This is Matt Quintanilla</h1>
+              <h3>I am a Learner who is passionate about techonology and problem solving.</h3>
+              <h3>I am experienced in python, VB, HTML, CSS.</h3>
+         
+          
 
-Lorem ipsum dolor sit amet, consec adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim ad minim veniam, quis nostrud exercitation ullamco nisi equi.
+       
 
-*   Unlimited domain names.
-*   150+ components.
-*   Lifetime updates.
-*   24/7 technical support.
+                    <!-- Button trigger modal -->
+                  <div id="three"  class="dark-theme container-fluid section">
+                      <div class="row content-box" id="one" >
+                          <div class="col-lg-12 ">
+                              <h1 class="dark-theme headings">My Skills</h1>
+                              <div class="skill-box"> 
+                                  <i class="fab fa-python fa-5x"></i><br/>
+                                  Python
+                              </div>
+                              <div class="skill-box">
+                                  <i class="fab fa-css3-alt fa-5x"></i><br/>
+                                  CSS
+                              </div>
+                              <div class="skill-box">
+                                  <i class="fab fa-html5 fa-5x"></i><br/>
+                                  HTML
+                              </div>
+                        
+                              
+        
+        
+                          </div>
+                          <div class=" col-lg-12 sub-section">
+                            To know more about me,<br>
+                            <a href="./resume.pdf" target="_blank" class="btn btn-warning">View Resume</a>
+                          </div>
+                      </div>
+        
+        
+                  </div>
+
+                  <div id="four"  class="container-fluid section">
+                    <div class="row content-box" id="one" >
+                        <div class="col-lg-12 ">
+                            <h1 class=" headings">Contact Me</h1>
+                            <form id="contact-form" method="post" action="https://formspree.io/f/xoqpoeer"
+                            method="POST" role="form">
+                              <div class="messages">
+
+                              </div>
+                              <div class="controls">
+                                  <div class="row">
+                                    <div class="col-md-6">
+                                      <div class="form-group">
+                                        <label for="form-name">FirstName*</label>
+                                        <input type="text" id="form-name" name="name" class="form-control" placeholder="Please enter your firstname" required="required" data-error="Firstname is required">
+                                        <div class="help-block with-errors"></div>
+                                      </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                      <div class="form-group">
+                                        <label for="form-lastname">Lastname*</label>
+                                        <input type="text" id="form-lastname" name="surname" class="form-control" placeholder="Please enter your lastname" required="required" data-error="Firstname is required">
+                                        <div class="help-block with-errors"></div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div class="row">
+                                    <div class="col-md-6">
+                                      <div class="form-group">
+                                        <label for="form_email">Email *</label>
+                                        <input id="form_email" type="email" name="email" class="form-control" placeholder="Please enter your email *" required="required" data-error="Valid email is required.">
+                                        <div class="help-block with-errors"></div>
+                                      </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                      <div class="form-group">
+                                        <label for="form_subject">Subject *</label>
+                                        <input id="form_subject" type="text" name="subject" class="form-control" placeholder="Please enter your email *" required="required" data-error="Valid subject is required.">
+                                        <div class="help-block with-errors"></div>
+                                      </div>
+                                  </div>
+                                  </div>
+                                  <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label for="form_message">Message *</label>
+                                            <textarea id="form_message" name="message" class="form-control" placeholder="Message for me *" rows="4" required="required" data-error="Please, leave us a message."></textarea>
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <input type="submit" class="btn btn-success btn-send" value="Send message">
+                                    </div>
+                                </div>
+                                
+                              </div>
+                            </form>
+                        </div>
+                    </div> 
+                  </div>
+                            
+                  
+  
 
 
-![#](https://res.cloudinary.com/uisual/image/upload/assets/devices/ipad.png) 
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+    
 
-Nice Features
--------------
+    <script>
+      typer(document.querySelector('#banner-text'),70)
+            .line('<h1>Welcome to my digital home!</h1>')
+            .cursor({block: false, blink: 'hard', color: 'red'});
 
-Lorem ipsum dolor sit amet, consec adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim ad minim veniam, quis nostrud exercitation ullamco nisi equi.
+    </script>
+    <script>
+    $(function () {
 
-*   Unlimited domain names.
-*   150+ components.
-*   Lifetime updates.
-*   24/7 technical support.
+// init the validator
+// validator files are included in the download package
+// otherwise download from http://1000hz.github.io/bootstrap-validator
 
-Wall of Love
-------------
+$('#contact-form').validator();
 
-Lorem ipsum dolor sit amet.
 
-![#](https://res.cloudinary.com/uisual/image/upload/assets/icons/avatar.svg)
+// when the form is submitted
+$('#contact-form').on('submit', function (e) {
 
-“Lorem ipsum dolor sit amet, consec adipiscing elit, sed do eiusmod tempor incididunt labore dolore magna.”
+    // if the validator does not prevent form submit
+    if (!e.isDefaultPrevented()) {
+        var url = "contact.php";
 
-**Jane Doe**  
-CEO of Company
+        // POST values in the background the the script URL
+        $.ajax({
+            type: "POST",
+            url: url,
+            data: $(this).serialize(),
+            success: function (data)
+            {
+                // data = JSON object that contact.php returns
 
-![#](https://res.cloudinary.com/uisual/image/upload/assets/icons/avatar.svg)
+                // we recieve the type of the message: success x danger and apply it to the 
+                var messageAlert = 'alert-' + data.type;
+                var messageText = data.message;
 
-“Lorem ipsum dolor sit amet, consec adipiscing elit, sed do eiusmod tempor incididunt labore dolore magna.”
+                // let's compose Bootstrap alert box HTML
+                var alertBox = '<div class="alert ' + messageAlert + ' alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>' + messageText + '</div>';
+                
+                // If we have messageAlert and messageText
+                if (messageAlert && messageText) {
+                    // inject the alert to .messages div in our form
+                    $('#contact-form').find('.messages').html(alertBox);
+                    // empty the form
+                    $('#contact-form')[0].reset();
+                }
+            }
+        });
+        return false;
+    }
+})
+});</script>
+    <script src="script.js" type="text/JavaScript"></script>
+  </body>
+</html>
 
-**Jane Doe**  
-CEO of Company
-
-![#](https://res.cloudinary.com/uisual/image/upload/assets/icons/avatar.svg)
-
-“Lorem ipsum dolor sit amet, consec adipiscing elit, sed do eiusmod tempor incididunt labore dolore magna.”
-
-**Jane Doe**  
-CEO of Company
-
-![#](https://res.cloudinary.com/uisual/image/upload/assets/icons/avatar.svg)
-
-“Lorem ipsum dolor sit amet, consec adipiscing elit, sed do eiusmod tempor incididunt labore dolore magna.”
-
-**Jane Doe**  
-CEO of Company
-
-![#](https://res.cloudinary.com/uisual/image/upload/assets/icons/avatar.svg)
-
-“Lorem ipsum dolor sit amet, consec adipiscing elit, sed do eiusmod tempor incididunt labore dolore magna.”
-
-**Jane Doe**  
-CEO of Company
-
-![#](https://res.cloudinary.com/uisual/image/upload/assets/icons/avatar.svg)
-
-“Lorem ipsum dolor sit amet, consec adipiscing elit, sed do eiusmod tempor incididunt labore dolore magna.”
-
-**Jane Doe**  
-CEO of Company
-
-Improve your work.
-------------------
-
-Lorem ipsum dolor sit amet consectetur.
-
-[Add to Chrome — It’s Free](#)
-
-Firefox and Safari soon.
-
-![#](https://res.cloudinary.com/uisual/image/upload/assets/devices/ipad-t.png)
-
-© 0000 Uisual
-
-[Features](#) [Help](#) [Terms](#)
-
-[](#)[](#)[](#)
