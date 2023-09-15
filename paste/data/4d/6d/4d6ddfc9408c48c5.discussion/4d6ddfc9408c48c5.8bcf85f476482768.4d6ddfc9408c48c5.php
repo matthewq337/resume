@@ -1,0 +1,2 @@
+<?php http_response_code(403); /*
+{"adata":["s77oU4B62JmcYNXYaac1xA==","dBK3yVq2TVE=",100000,256,128,"aes","gcm","zlib"],"v":2,"ct":"FlMpK02lkx50BSLjO2Y7I71TWBba\/hYwGSOh0Jy24iLz8qXJyTWnID1hjAI5847sqwpR\/OIwirvtOFihpg==","pasteid":"4d6ddfc9408c48c5","parentid":"4d6ddfc9408c48c5","meta":{"icon":"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAIAAAC0tAIdAAAABnRSTlMAAAAAAABupgeRAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAANUlEQVQokWN0+PCBAQYOCAgwMDDgEWFiIAWQppoR2V4yzT4gIABx8YC7ZMBVYwYFmshQDRMAn+wT24sDY9AAAAAASUVORK5CYII=","created":1678230183}}
